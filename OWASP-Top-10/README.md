@@ -191,7 +191,7 @@
 9. [Inadequate 'compute' resource quota limits](https://github.com/OWASP/www-project-cloud-native-application-security-top-10/blob/master/2022/en/src/0x09_compute_resources.md)
 10. [Ineffective Logging and Monitoring](https://github.com/OWASP/www-project-cloud-native-application-security-top-10/blob/master/2022/en/src/0x0A_logging.md)
 
-## Top 10 Docker Risks (2018)[https://github.com/OWASP/Docker-Security/blob/main/D01%20-%20Secure%20User%20Mapping.md]
+## [Top 10 Docker Risks (2018)](https://github.com/OWASP/Docker-Security/blob/main/D01%20-%20Secure%20User%20Mapping.md)
 1. Insecure User Mapping
 2. Improper Patch Management Strategy
 3. Improper Network Segmentation and Firewalling
