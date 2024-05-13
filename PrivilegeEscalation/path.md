@@ -1,7 +1,7 @@
 # Linux Privilege Escalation with PATH
 - Check SUID file using `find / -perm -u=s -type f 2>/dev/null`
 
-<img src=img/SUID.png>
+<img src=img/suid.png>
 
 - Test only `unusual` or `user customized binary` to see their functionality. - `/home/murdoch/test`
 
