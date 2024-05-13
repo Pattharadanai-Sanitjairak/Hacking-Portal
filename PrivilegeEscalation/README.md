@@ -4,3 +4,4 @@
 - [Exploit via file with SUID permission](suid.md)
 - [Exploit via set capability](capability.md)
 - [Exploit via Cron Jobs](cron.md)
+- [Exploit via Leaked Hashed Password](cracking)
