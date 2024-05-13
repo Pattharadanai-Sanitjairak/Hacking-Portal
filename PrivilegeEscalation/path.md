@@ -1,4 +1,6 @@
 # Linux Privilege Escalation with PATH
+[< Back to Menu](README.md)
+## Methodology
 - Check SUID file using `find / -perm -u=s -type f 2>/dev/null`
 
 <img src=img/suid.png>
